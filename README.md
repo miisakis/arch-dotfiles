@@ -19,7 +19,6 @@
 | **TERMINAL**    | Kitty                   |
 | **SHELL**       | Zsh                     |
 | **NOTIFICATION**| Mako                    |
-| **LOCKING**     | Hyprlock                |
 
 ---
 
