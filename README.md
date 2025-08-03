@@ -32,3 +32,4 @@
 
 ## P.S
 I tried to compress these dot files as much as possible, as this is my first rice or config, there may be errors or bugs. you can find my contact in the git hub profile.
+There may be a question: why is the endeavourOS icon on the waybar and not the linux arch. I decided that it would fit better with this kofnig, and it's beautiful, I don't like the arch-linux icon too much
