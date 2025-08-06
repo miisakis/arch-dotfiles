@@ -22,35 +22,26 @@ anchor=top-right
 [urgency=low]
 font=Bebas Neue Bold 12.2
 default-timeout=2500
-background-color=#1e1e2e
-border-color=#cdd6f4
-text-color=#cdd6f4
+background-color=#151719
+border-color=#ddeeff
+text-color=#ddeeff
 
 [urgency=normal]
 icons=1
 font=Bebas Neue Bold 16.3
 default-timeout=4000
-background-color=#1e1e2e
-border-color=#cdd6f4
-text-color=#fab387
+background-color=#151719
+border-color=#ddeeff
+text-color=#ddeeff
 on-notify=exec grim /home/owl/home/Music/Strange/Sic Mos - Lullaby [The Cure].mp3
 
 [urgency=critical]
 font=Bebas Neue Bold 21.2
 default-timeout=0
-background-color=#f5c2e7
-border-color=#cdd6f4
-text-color=#1e1e2e
+background-color=#151719
+border-color=#ddeeff
+text-color=#ddeeff
 on-notify=exec mpv /usr/share/sounds/freedesktop/stereo/dialog-warning.oga
 
-## app-name
-[app-name=grim]
-anchor=top-center
-format=%s\n%b
-group-by=app-name
-default-timeout=3000
-on-notify=exec "Cкриншот сохранен:"
-
-## body
 [body=""]
 format=%s\n%b

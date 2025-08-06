@@ -8,7 +8,7 @@
 ; mode = normal
 
 # Accepts only non-negative values.
-; framerate = 60
+; framerate = 180
 
 # 'autosens' will attempt to decrease sensitivity if the bars peak. 1 = on, 0 = off
 # new as of 0.6.0 autosens of low values (dynamic range)
@@ -243,14 +243,14 @@
 #[color]
 gradient = 1
 
-gradient_color_1 = '#94e2d5'
-gradient_color_2 = '#89dceb'
-gradient_color_3 = '#74c7ec'
-gradient_color_4 = '#89b4fa'
-gradient_color_5 = '#cba6f7'
-gradient_color_6 = '#f5c2e7'
-gradient_color_7 = '#eba0ac'
-gradient_color_8 = '#f38ba8'
+gradient_color_1 = '#ddeeff'
+gradient_color_2 = '#ddeeff'
+gradient_color_3 = '#ddeeff'
+gradient_color_4 = '#ddeeff'
+gradient_color_5 = '#ddeeff'
+gradient_color_6 = '#ddeeff'
+gradient_color_7 = '#ddeeff'
+gradient_color_8 = '#ddeeff'
 
 
 [smoothing]
