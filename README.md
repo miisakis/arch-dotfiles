@@ -21,6 +21,41 @@
 | **NOTIFICATION**| Mako                    |
 
 ---
+# Dependency
+1
+```
+sudo pacman -Syu
+```
+2
+```
+sudo pacman -S zsh hyprland hyprshot grim kitty swww fastfetch grim slurp cava imagemagick w3m awesome-terminal-fonts otf-font-awesome ttf-font-awesome ttf-jetbrains-mono ttf-jetbrains-mono-nerd nerd-fonts waybar iniparser rofi-wayland git swappy thunar
+```
+3
+```
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+```
+4
+```
+git clone --depth=1 https://github.com/adi1090x/rofi.git
+cd rofi
+chmod +x setup.sh
+./setup.sh
+```
+5
+```
+git clone https://github.com/ohmyzsh/ohmyzsh
+git clone https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
+git clone https://github.com/romkatv/powerlevel10k
+```
+```
+cd
+cd .config/rofi
+chmod +x powermenu.sh
+```
+---
+---
 
 # 🎨 Themes & Icons
 
