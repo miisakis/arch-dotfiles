@@ -49,9 +49,9 @@ git clone https://github.com/ohmyzsh/ohmyzsh
 git clone https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
 git clone https://github.com/romkatv/powerlevel10k
 ```
+6
 ```
-cd
-cd .config/rofi
+cd ~/.config/rofi
 chmod +x powermenu.sh
 ```
 ---
