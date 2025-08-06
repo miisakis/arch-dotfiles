@@ -75,14 +75,14 @@
 	},
 
 	"hyprland/language": {
-		"format": "<span color='#fab387'>󰌏</span> {}",
+		"format": "<span color='#ddeeff'>󰌏</span> {}",
 		"format-en": "en",
 		"format-ru": "ru",
 	},
     
 	"pulseaudio": {
 		"scroll-step": 1,
-		"format": "<span color='#fab387'>{icon}</span> {volume}%",
+		"format": "<span color='#ddeeff'>{icon}</span> {volume}%",
 		"format-icons": {
 		"default": ["", "", ""]
 		},
@@ -91,9 +91,9 @@
 	},
 
 	"clock": {
-		"format": "<span color='#fab387'></span> {:%H:%M}",
+		"format": "<span color='#ddeeff'></span> {:%H:%M}",
 		"tooltip-format": "<big><span color='#cdd6f4'>{:%Y %B}</span></big>\n<tt><small>{calendar}</small></tt>",
-		"format-alt": "<span color='#eba0ac'></span> <span color='#cdd6f4'>{:%Y-%m-%d}</span>",
+		"format-alt": "<span color='#ddeeff'></span> <span color='#cdd6f4'>{:%Y-%m-%d}</span>",
 
         "calendar": {
                     "mode"          : "month",
